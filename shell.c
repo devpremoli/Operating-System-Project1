@@ -1,4 +1,6 @@
-// Worked in a group , Team Member : Prem Oli, Manish Niure
+// Worked in a group
+//Team Members : Prem Oli, Manish Niure
+
 #include <stdbool.h>
 #include <stdio.h>
 #include <stdlib.h>
@@ -319,6 +321,3 @@ void execute_command(char* arguments[]){
 
     }
 }
-
-
-
