@@ -1,4 +1,5 @@
-// Worked in a group , Team Member : Prem Oli
+// Worked in a group
+// Team Member : Prem Oli, Manish Niure
 #include <stdbool.h>
 #include <stdio.h>
 #include <stdlib.h>
